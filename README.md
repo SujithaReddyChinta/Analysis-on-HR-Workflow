@@ -84,7 +84,7 @@ Strategic Workforce Planning: Leverage insights on years of service and departme
 
 # 🛠️ Technologies Used
 
-Visualization: Power BI / Tableau / Python (Matplotlib, Seaborn, Plotly)
+Visualization: Power BI  
 
 Data Processing: Python (Pandas, NumPy)
 
